@@ -38,7 +38,7 @@ Recent research of the following topics: Single image to Camera Model estimation
 
 This section is co-authored with PhD student Yang Li 本部分与博士研究生李杨合写
 
-# Deep Learning Research Topics 深度学习研究
+# Deep Learning Research Topics 深度学习
 
 * ### [Variance Reduction](https://github.com/roboticcam/machine-learning-notes/blob/master/files/variance_reduction.pdf) ###
 REBAR, RELAX algorithm and some detailed explanation of re-parameterization of Gumbel conditionals   REBAR，RELAX算法以及对Gumbel条件概率重新参数化的一些详细说明
